@@ -11,3 +11,7 @@ TOTEMYSTX with 38 keys shares the same firmware as of the original TOTEM.
 TOTEMX with 38 keys shares the same firmware as of the original TOTEM.
 ![image](./Pictures/20250812.AZHIZHINOV.TOTEMX.00.jpg)
 ![image](./Pictures/20250812.AZHIZHINOV.TOTEMX.01.jpg)
+
+Cases's models are designed to use M2 screws. For the TOTEMYSTX case use M2\*10mm -8pcs and M2\*8mm -2pcs and M2\*10mm -8pcs for the TOTEMX case.
+![image](./Pictures/20250814.SCREW.M2.00)
+The cases and PCBs are not compatible with the previous version. https://github.com/azhizhinov/TOTEMX
