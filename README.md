@@ -11,10 +11,15 @@ TOTEMYSTX with 38 keys shares the same firmware as of the original TOTEM.
 
 There are 3 mods for the TOTEMYSTX use cases.
 The jumper is open. 38 keys as usual, but the right thumb key not in use, has no connection to the MCU.
+
 ![image](./Pictures/20250902.AZHIZHINOV.TOTEMYSTX.00.png)
+
 If you'll cut out the outer thumb key, you have to solder the jumper in "TOTEMX" mode. It's will be classical TOTEM/TOTEMX.
+
 ![image](./Pictures/20250902.AZHIZHINOV.TOTEMYSTX.01.png)
+
 To use all 40 keys, you have to solder the jumper in "TOTEMYSTX" mode and change a keymap and recompile then.
+
 ![image](./Pictures/20250902.AZHIZHINOV.TOTEMYSTX.02.png)
 
 TOTEMX with 38 keys shares the same firmware as of the original TOTEM.
