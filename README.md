@@ -1,7 +1,8 @@
 # TOTEMYSTX
 TOTEMYSTX is a 38-40 keys column-staggered split keyboard. It meant to be used with a Seed Studio XIAO RP2040 or nRF52840.
 TOTEMYSTX is a replica of the famous TOTEM by GEIGEIGEIST for MX spacing (19.05x19.05mm) switches like Cherry MX.
-Warning. I don't have printed PCBs on hands, so can't check or debug. It should work in theory. Use this files on youre own risk. 
+
+**Warning. I don't have printed PCBs on hands, so can't check or debug. It should work in theory. Use this files on youre own risk.**
 
 https://github.com/GEIGEIGEIST/TOTEM
 
@@ -10,6 +11,7 @@ TOTEMYSTX with 38 keys shares the same firmware as of the original TOTEM.
 ![image](./Pictures/20250812.AZHIZHINOV.TOTEMYSTX.01.jpg)
 
 There are 3 mods for the TOTEMYSTX use cases.
+
 The jumper is open. 38 keys as usual, but the right thumb key not in use, has no connection to the MCU.
 
 ![image](./Pictures/20250902.AZHIZHINOV.TOTEMYSTX.00.png)
